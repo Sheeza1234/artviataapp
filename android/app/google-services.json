@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933909950703",
+    "project_id": "artvista-22199",
+    "storage_bucket": "artvista-22199.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933909950703:android:607673c2f3ce194fb6ab1a",
+        "android_client_info": {
+          "package_name": "com.anonymous.artviataapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvXAX0aZkNhb8kg_vtjjRk8_xWiV5OwAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
